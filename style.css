@@ -4,3 +4,9 @@ body {
 h1 {
     color: rebeccapurple;
 }
+p {
+    font-size: 30px;
+}
+header {
+    display: flex;
+}
